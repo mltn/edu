@@ -18,6 +18,11 @@
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 - [AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine?)
 
+#### Sebastian Raschka
+
+- [Books](https://sebastianraschka.com/books/) (including [Machine Learning with PyTorch and Scikit-Learn](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html))
+- [A Short Chronology of Deep Learning for Tabular Data](https://sebastianraschka.com/blog/2022/deep-learning-for-tabular-data.html)
+
 ## Data Analytics
 
 #### Coursera
