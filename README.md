@@ -23,6 +23,10 @@
 - [Books](https://sebastianraschka.com/books/) (including [Machine Learning with PyTorch and Scikit-Learn](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html))
 - [A Short Chronology of Deep Learning for Tabular Data](https://sebastianraschka.com/blog/2022/deep-learning-for-tabular-data.html)
 
+#### Fairness in ML
+
+- [Fairness in ML Book (contains talk links)](https://fairmlbook.org/)
+
 ## Data Analytics
 
 #### Coursera
@@ -31,5 +35,13 @@
 #### Practice
 - [I analyzed 1835 hospital price lists so you didn't have to](https://www.dolthub.com/blog/2022-07-01-hospitals-compliance/) by [Alec Stein](https://www.dolthub.com/team#alec)
 
+## 3D Modeling in Blender
 
+#### Tutorials
+- [Blender Guru's Donut tutorial](https://www.youtube.com/watch?v=nIoXOplUvAw)
+- [IanHubert Lazy Tutorials](https://www.youtube.com/watch?v=U1f6NDCttUY&list=PL4Dq5VyfewIxxjzS34k2NES_PuDUIjRcY)
+
+#### YouTube channels
+- [Ducky 3D](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ/videos)
+- [Polyfjord](https://www.youtube.com/c/Polyfjord/videos)
 
