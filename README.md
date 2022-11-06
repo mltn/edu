@@ -27,6 +27,10 @@
 
 - [Fairness in ML Book (contains talk links)](https://fairmlbook.org/)
 
+#### Setosa - Explained Visually
+
+- [Explained Visually](https://setosa.io/ev/)
+
 ## Data Analytics
 
 #### Coursera
