@@ -35,6 +35,10 @@
 
 - [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](https://timdettmers.com/2023/01/16/which-gpu-for-deep-learning/)
 
+#### Misc
+
+- [Online gradient descent written in SQL](https://maxhalford.github.io/blog/ogd-in-sql/)
+
 ## Data Analytics
 
 #### Coursera
