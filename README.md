@@ -38,6 +38,7 @@
 #### Misc
 
 - [Online gradient descent written in SQL](https://maxhalford.github.io/blog/ogd-in-sql/)
+- [Notion AI Prompts](https://github.com/sw-yx/ai-notes/blob/main/Resources/Notion%20AI%20Prompts.md)
 
 ## Data Analytics
 
